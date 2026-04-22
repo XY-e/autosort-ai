@@ -1,4 +1,4 @@
-**🤖 AutoSortAI — Intelligent Customer Support Intent Classifier**
+** AutoSortAI — Intelligent Customer Support Intent Classifier**
 
 AutoSortAI is a machine learning-based intent classification system designed to enhance customer support automation. It classifies user queries and provides relevant, predefined responses. Built with scikit-learn and Google Colab, the system uses logistic regression and TF-IDF to power fast, accurate inference.
 
